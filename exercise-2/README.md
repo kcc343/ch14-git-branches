@@ -1,7 +1,7 @@
 # Exercise 2
 In this exercise, you'll practice resolving a merge conflict.
 
-> New Line
+> Hello
 
 To complete the exercise, follow the below steps:
 
