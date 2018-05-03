@@ -2,6 +2,8 @@
 In this exercise, you'll practice resolving a merge conflict.
 
 > Luke I am your father
+> Hi this is danger, warning!
+
 
 To complete the exercise, follow the below steps:
 
